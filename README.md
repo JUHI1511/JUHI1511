@@ -1,7 +1,7 @@
 ### Hi there
 
 - 🔭 I’m currently working on Machine Learning project 
-- 🌱 I’m currently learning ML libraries such as 
+- 🌱 I’m currently learning ML libraries such as Tenserflow,Keras.
 - 👯 I’m looking to collaborate on AI/ML project and participate in hackathons.
 - 🤔 I’m looking for help with VGG16 Transfer Learning
 - 💬 Ask me about OpenCV,tenserflow,Scikit-Learn Libraries,Ml algorithms.
