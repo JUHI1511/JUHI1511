@@ -51,7 +51,7 @@ I have keen interest in Competitive Coding, Machine Learning and Deep Learning
 - ⚡ Fun fact: A good team player and fun to work with.
 
 -  📫 How to reach me:
-[![LinkedIn](https://img.shields.io/badge/-Juhi Vishakha-2867B2?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/juhivishakha/)
+[![LinkedIn](https://img.shields.io/badge/-Juhi_Vishakha-2867B2?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/juhivishakha/)
 [![Twitter](https://img.shields.io/badge/-raiswati14-1da1f2?style=flat&logo=Twitter&logoColor=white)](https://twitter.com/raiswati_14/)
 [![Instagram](https://img.shields.io/badge/-juhi_vishakha-833ab4?style=flat&logo=Instagram&logoColor=white)](https://www.instagram.com/juhi_vk/)
 [![Gmail](https://img.shields.io/badge/-Juhi_Vishakha-DB4437?style=flat&logo=Gmail&logoColor=white)](mailto:vishakhajuhi11@gmail.com)
